@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Bishal
 
 Here are some ideas to get you started:
 
@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 - 💬 Free to ask about anything
 - 📫 How to reach me: nandybishal23@gmail.com
 - 😄 Pronouns: his/him
-- 
+
+https://github-readme-stats.vercel.app/api?username=nandybishal23&show_icons=true&theme=radical
