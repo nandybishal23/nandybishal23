@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nandybishal23@gmail.com
 - 😄 Pronouns: his/him
 
-![Bishal's stats](https://github-readme-stats.vercel.app/api?username=nandybishal23&show_icons=true&theme=radical)   ![Bishal's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=nandybishal23&show_icons=true&theme=radical)
+![Bishal's stats](https://github-readme-stats.vercel.app/api?username=nandybishal23&show_icons=true&theme=radical)   
+![Bishal's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=nandybishal23&show_icons=true&theme=radical)
