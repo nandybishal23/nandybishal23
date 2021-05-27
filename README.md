@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Bishal
+![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=nandybishal23)
 
 Here are some ideas to get you started:
 
@@ -10,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: his/him
 - ✨ Skills: C++ / Python/ JS / HTML / CSS
 
-![Bishal's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=nandybishal23&show_icons=true&theme=radical) ![Bishal's stats](https://github-readme-stats.vercel.app/api?username=nandybishal23&show_icons=true&theme=radical)   
-
+![Bishal's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=nandybishal23&show_icons=true&theme=radical) ![Bishal's stats](https://github-readme-stats.vercel.app/api?username=nandybishal23&show_icons=true&theme=radical)
 
 
