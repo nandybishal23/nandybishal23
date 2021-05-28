@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I am Bishal 
+<h1 align="center">Hey👋 I am Bishal Nandy
   <h3 align="center">A passionate frontend developer from India</h3>
  
   
