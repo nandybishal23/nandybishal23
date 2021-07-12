@@ -1,5 +1,7 @@
 <h1 align="center">Hey👋 I am Bishal Nandy
   <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">A passionate frontend developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  
+  
  ```javascript
 const BigB = {
   Pronouns: "he" | "his",
