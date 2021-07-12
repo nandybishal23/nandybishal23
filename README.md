@@ -1,6 +1,20 @@
 <h1 align="center">Hey👋 I am Bishal Nandy
   <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">A passionate frontend developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
- 
+ ```javascript
+const BigB = {
+  Pronouns: "he" | "his",
+  Description : [Passionate, Optimistic, 
+                 Tech enthusiast and a lot more ],
+  Education : 
+           [ 
+           { Collge: BP Poddar Institute of Technology, 
+             Year :2019-23  }, 
+           { School : Aditya Academy Senior Secondary,  
+              Year : 2003-19 } 
+           ],
+ Experience : ['Internship @ Suven Consultants & Technology Pvt. Ltd.']
+}
+```
   
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandybishal23&label=Profile%20views&color=0e75b6&style=flat" alt="nandybishal23" /> </p></h1>
