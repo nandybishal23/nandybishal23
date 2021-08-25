@@ -44,6 +44,7 @@ const BigB = {
 
 <div align="center">
 
+https://activity-graph.herokuapp.com/graph?username=nandybishal23&theme=dracula
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
