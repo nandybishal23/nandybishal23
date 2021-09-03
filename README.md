@@ -14,7 +14,8 @@ const BigB = {
            { School : Aditya Academy Senior Secondary,  
               Year : 2003-19 } 
            ],
- Experience : ['Internship @ Suven Consultants & Technology Pvt. Ltd.']
+ Experience : ['Internship @ Suven Consultants & Technology Pvt. Ltd.'
+               'Internship @ GetGo Logistics Pvt. Ltd.']
 }
 ```
   
