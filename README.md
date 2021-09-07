@@ -2,7 +2,7 @@
   <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">A passionate frontend developer from India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
   
   
- ```javascript
+ ```c++
 const BigB = {
   Pronouns: "he" | "his",
   Description : [Passionate, Optimistic, 
