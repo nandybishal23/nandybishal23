@@ -1,6 +1,7 @@
   <h1 align="center">< Hey, I'm <a href="https://nandybishal23.github.io/Portfolio-Website/"> Bishal Nandy</a> />  
   <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">A passionate frontend developer from India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-  
+
+  <script>alert(1)</script>
   
  ```c++
 const BigB = {
